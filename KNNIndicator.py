@@ -174,4 +174,4 @@ stock = Stock_KNN('AMZN', 3)
 print(f" \nIndicator Score: {stock.indicator} \nClassifier Accuracy: {stock.accuracy}")
 
 
-#print(stock.guesses) //print a numpy series of 0 and 1s corresponding to whether each indicator suggests an increase
+
